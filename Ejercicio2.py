@@ -11,3 +11,4 @@ def list_palabras(palabras):
         
 palabras1=["hola","como", "hola", "estas"]
 print(list_palabras(palabras1))
+
